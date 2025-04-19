@@ -5,10 +5,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3oxcDF0cm5jMGE4NmJpMXozb2tmdWVseDV3Z3djeDF3bnphZjhhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84U7IeOoPUfi0SCQ/giphy.gif"  />
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/erikkk_cahya/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
