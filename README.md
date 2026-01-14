@@ -10,10 +10,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/erik-cahya/count.svg?"  />
-</div>
-
-###
-<!-- <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" width="200px" /> -->
-
